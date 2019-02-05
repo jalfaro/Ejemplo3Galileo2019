@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejemplo3</string>
+    <string name="txt_ingreso_usuario">Ingrese nombre del Contacto:</string>
+    <string name="txt_ingreso_telefono">Ingrese el telefono del Contacto:</string>
+    <string name="txt_ingreso_sexo">Ingrese el sexo del Contacto:</string>
+    <string name="txt_femenino">Femenino</string>
+    <string name="txt_masculino">Masculino</string>
+    <string name="txt_guardar_contacto">Guardar Contacto</string>
+    <string name="txt_consultar_contacto">Consultar Contactos</string>
+</resources>
